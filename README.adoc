@@ -1,1 +1,14 @@
-# RoboticIcecreamTruck
+= Robotic Ice Cream Truck Inc.
+
+"Robotic Ice cream Truck Inc" is a kata to train (agile-) backlog handling, such as slicing of backlog item, formulating acceptance criteria, prioritization etc. 
+
+The "Robotic Ice Cream Truck Inc." is a small company that revolutionizes the way icecream is sold on the streets of your hometown. It runs a fleet of fully automated ice cream trucks that sell quality ice creams made from local ingredients.
+
+The employee-roll consosts of the following roles
+
+* *Ice Cream specialists* - Highly trained food-engineers that are masters at creating new awesome flavors of ice cream
+* *Robot engineers* - Engineers having all the skill to build, maintain and improve the ice cream trucks
+* *Marketing specialists* - Specialists in business analysis and the creation of a targeted product image
+
+include::stories.adoc[]
+

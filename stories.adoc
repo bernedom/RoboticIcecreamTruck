@@ -1,0 +1,19 @@
+== Stories to refine
+
+* Sell Ice cream
+* Find the best route to the customers
+* Introduce three new ice cream flavors
+* The truck should serve ice cream on both sides of the truck
+* improve the reliability of the trucks by 5%
+* write a concept to track the telemetry of each truck to plan preventive maintenance 
+* Build three additional trucks
+* Add a deep-freeze storage to the truck
+* The ice cream truck should be operatable by small children who cannot read
+
+
+== Bugs, defects
+
+* Truck No. 5 has a clogged ice-cream pipeline
+* Maracuia Ice cream is extremely hard to scoop for the robot
+* The aloe vera icercream tastes more like broccoli
+* 
